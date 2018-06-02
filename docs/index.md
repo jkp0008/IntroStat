@@ -16,7 +16,7 @@
 
 ### Friday Sept 7
 
-* Topic: Welcome to IntroStat
+* Topic: Welcome to **IntroStat**
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
 * Reading: Textbook Chap 1, pp. 14-19
 
